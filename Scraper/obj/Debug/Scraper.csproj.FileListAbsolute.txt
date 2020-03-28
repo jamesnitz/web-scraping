@@ -1,0 +1,10 @@
+C:\Users\james\workspace\csharp\personal-projects\Scraper\Scraper\bin\Debug\Scraper.exe.config
+C:\Users\james\workspace\csharp\personal-projects\Scraper\Scraper\bin\Debug\Scraper.exe
+C:\Users\james\workspace\csharp\personal-projects\Scraper\Scraper\bin\Debug\Scraper.pdb
+C:\Users\james\workspace\csharp\personal-projects\Scraper\Scraper\obj\Debug\Scraper.csprojAssemblyReference.cache
+C:\Users\james\workspace\csharp\personal-projects\Scraper\Scraper\obj\Debug\Scraper.exe
+C:\Users\james\workspace\csharp\personal-projects\Scraper\Scraper\obj\Debug\Scraper.pdb
+C:\Users\james\workspace\csharp\personal-projects\Scraper\Scraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\james\workspace\csharp\personal-projects\Scraper\Scraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\james\workspace\csharp\personal-projects\Scraper\Scraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\james\workspace\csharp\personal-projects\Scraper\Scraper\obj\Debug\Scraper.csproj.CopyComplete
